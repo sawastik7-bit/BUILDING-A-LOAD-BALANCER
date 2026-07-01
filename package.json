@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/sawastik7-bit/BUILDING-A-LOAD-BALANCER#readme",
   "dependencies": {
+    "axios": "^1.18.0",
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
   }
