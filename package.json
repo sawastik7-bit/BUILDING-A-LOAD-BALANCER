@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/sawastik7-bit/BUILDING-A-LOAD-BALANCER/issues"
   },
-  "homepage": "https://github.com/sawastik7-bit/BUILDING-A-LOAD-BALANCER#readme"
+  "homepage": "https://github.com/sawastik7-bit/BUILDING-A-LOAD-BALANCER#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
 }
