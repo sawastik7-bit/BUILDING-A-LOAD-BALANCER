@@ -7,7 +7,7 @@ const app=express();
 
 
 app.get("/",(req,res)=>{
-    console.log("this is the server1 for incoming request");
+    console.log("server 2 handled request successfully");
 });
 
 app.get("/health",(req,res)=>{

@@ -4,7 +4,8 @@ const app=express();
 
 
 app.get("/",(req,res)=>{
-res.send("this is the server 2 for incoming requests");
+console.log("server 3 handled request successfully");
+ 
 })
 app.get("/health",(req,res)=>{
     res.status(200).json("The server is healthy");
