@@ -1,0 +1,21 @@
+{
+  "name": "building-a-load-balancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loadbalancer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawastik7-bit/BUILDING-A-LOAD-BALANCER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sawastik7-bit/BUILDING-A-LOAD-BALANCER/issues"
+  },
+  "homepage": "https://github.com/sawastik7-bit/BUILDING-A-LOAD-BALANCER#readme"
+}
